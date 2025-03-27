@@ -33,7 +33,7 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
 
 2. **Application of Large Language Models in Medical Training Evaluation—Using ChatGPT as a Standardized Patient: Multimetric Assessment**  
    [JMIR:e59435](https://www.jmir.org/2025/1/e59435)  
-   *Explore the feasibility and performance of ChatGPT as a standardized patient.*  
+   *Explore ChatGPT’s viability and performance as a standardized patient, using prompt engineering to refine its accuracy and use in medical assessments.*    
     
 
 ## Categories
