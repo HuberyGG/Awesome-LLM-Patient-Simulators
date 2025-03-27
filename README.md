@@ -21,6 +21,10 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
    [arXiv:2403.08495](https://arxiv.org/pdf/2403.08495)  
    *Introduced the Automatic Interaction Evaluation (AIE) framework and the State-Aware Patient Simulator (SAPS).*
 
+5. **PATIENT-Ψ: Using Large Language Models to Simulate Patients for Training Mental Health Professional**  
+   [arXiv:2405.19660](https://arxiv.org/pdf/2405.19660)  
+   *Proposed a framework using large language models for patient simulation.*  
+
 ### 2025
 1. **Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**  
    [arXiv:2501.06964](https://arxiv.org/pdf/2501.06964)   
