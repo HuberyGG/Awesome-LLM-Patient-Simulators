@@ -17,7 +17,7 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
    [arXiv:2404.13066](https://arxiv.org/pdf/2404.13066)  
    *Explores LLM applications in medical training through patient simulation*
 
-4. **Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**
+4. **Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**  
    [arXiv:2403.08495](https://arxiv.org/pdf/2403.08495)
 
 ### 2025
