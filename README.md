@@ -23,7 +23,7 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
 
 ### 2025
 1. **Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**  
-   [arXiv:2501.06964](https://arxiv.org/pdf/2501.06964)  
+   [arXiv:2501.06964](https://arxiv.org/pdf/2501.06964)   
    *Focuses on improving doctor-patient communication through LLM-simulated patient perspectives*
 
 ## Methodology Papers
