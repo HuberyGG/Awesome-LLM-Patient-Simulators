@@ -18,7 +18,8 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
    *Explores LLM applications in medical training through patient simulation*
 
 4. **Automatic Interactive Evaluation for Large Language Models with State Aware Patient Simulator**  
-   [arXiv:2403.08495](https://arxiv.org/pdf/2403.08495)
+   [arXiv:2403.08495](https://arxiv.org/pdf/2403.08495)  
+   *Introduced the Automatic Interaction Evaluation (AIE) framework and the State-Aware Patient Simulator (SAPS).*
 
 ### 2025
 1. **Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**  
