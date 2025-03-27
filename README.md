@@ -31,7 +31,7 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
    [ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1551741121001625)  
    *Foundational paper on simulated patient methodology in healthcare research*  
 
-2. **Application of Large Language Models in Medical Training Evaluation—Using ChatGPT as a Standardized Patient: Multimetric Assessment**
+2. **Application of Large Language Models in Medical Training Evaluation—Using ChatGPT as a Standardized Patient: Multimetric Assessment**  
    [JMIR:e59435](https://www.jmir.org/2025/1/e59435)  
    *Explore the feasibility and performance of ChatGPT as a standardized patient.*  
     
