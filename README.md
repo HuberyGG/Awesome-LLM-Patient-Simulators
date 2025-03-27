@@ -29,6 +29,9 @@ A curated collection of papers on LLM-based Patient Simulators for clinical educ
 1. **Enhancing Patient-Centric Communication: Leveraging LLMs to Simulate Patient Perspectives**  
    [arXiv:2501.06964](https://arxiv.org/pdf/2501.06964)   
    *Focuses on improving doctor-patient communication through LLM-simulated patient perspectives*
+2. **Virtual Patient Simulations Using Social Robotics Combined With Large Language Models for Clinical Reasoning Training in Medical Education: Mixed Methods Study**
+   [JMIR:e63312 PDF](https://www.jmir.org/2025/1/e63312/PDF)
+   *explore the potential added value of a social robotic VP platform combined with an LLM compared to a conventional computer-based VP modality for CR training of medical student*  
 
 ## Methodology Papers
 1. **The Simulated Patient Method: Design and Application in Health Services Research**  
