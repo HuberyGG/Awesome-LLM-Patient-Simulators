@@ -41,19 +41,19 @@ This repository provides a curated collection of research papers on **Large Lang
 
 <div style="margin: 20px 0;">
 
-### (2021/05) Lessons Learned from the Usability Evaluation of a Simulated Patient Dialogue System  
+#### (2021/05) Lessons Learned from the Usability Evaluation of a Simulated Patient Dialogue System  
 [Springer Link](https://link.springer.com/article/10.1007/s10916-021-01737-4) | [Data](https://pvdial.limsi.fr/data/PG-logs-eval.zip) | [Demo](http://vps-9069f76a.vps.ovh.net)  
 *Developed a virtual patient dialogue system for medical students to practice.*
 
-### (2021/12) The simulated patient method: Design and application in health services research  
+#### (2021/12) The simulated patient method: Design and application in health services research  
 [Science Direct](https://linkinghub.elsevier.com/retrieve/pii/S1551741121001625)  
 *Explores the design and application of the simulated patient method in health services research, particularly in pharmacy practice.*
 
-### (2023/03) The Role of ChatGPT, Generative Language Models, and Artificial Intelligence in Medical Education: A Conversation With ChatGPT and a Call for Papers  
+#### (2023/03) The Role of ChatGPT, Generative Language Models, and Artificial Intelligence in Medical Education: A Conversation With ChatGPT and a Call for Papers  
 [JMIR Med Educ](https://mededu.jmir.org/2023/1/e46885) | [pdf](https://mededu.jmir.org/2023/1/e46885/PDF) | [Call for Papers](https://mededu.jmir.org/announcements/365)  
 *Explores the potential application of ChatGPT and other generative language models in medical education, including virtual patient simulation.*
 
-### (2025/02) From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?  
+#### (2025/02) From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?  
 [arXiv](http://arxiv.org/abs/2502.18210) | [pdf](https://arxiv.org/pdf/2502.18210) | [Data](https://jmir.org/api/download?alt_name=jmir_v27i1e59435_app1.docx&filename=2ff26f0a7b3db530e6e1a74bd2a50323.docx)  
 *Analyses LLMs' ability to simulate human behavior, discussing key limitations (e.g., bias, lack of incentives) and future alignment strategies.*
 
