@@ -20,6 +20,8 @@ This repository provides a curated collection of research papers on **Large Lang
 <div style="background-color: #f5f7fa; padding: 15px; border-radius: 8px; margin: 15px 0; font-size: 0.95em;">
 
 - [Fundamental Research](#-fundamental-research)
+  - [Virtual Patient](#-virtual-patient)
+  - [Development History](#-development-history)
 - [Methodology](#-methodology)
   - [Agent Systems](#-agent)
   - [NLP Techniques](#-nlp)
@@ -30,8 +32,10 @@ This repository provides a curated collection of research papers on **Large Lang
   - [General Medical Education](#-general-medicine-education)
   - [Psychiatric Medicine](#-psychiatric-medicine)
   - [Clinical Decision Support](#-clinical-decision-support)
-- [Challenges](#-challenges)
+- [Evaluation Methods & Effects](#-evaluation-methods-effects)
+- [Challenges & Limitations](#-challenges)
   - [Bias & Ethical Considerations](#-bias--ethics)
+- [Future Trends](#-future-trends)
 
 </div>
 
@@ -56,6 +60,35 @@ This repository provides a curated collection of research papers on **Large Lang
 #### (2025/02) From ChatGPT to DeepSeek: Can LLMs Simulate Humanity?  
 [arXiv](http://arxiv.org/abs/2502.18210) | [pdf](https://arxiv.org/pdf/2502.18210) | [Data](https://jmir.org/api/download?alt_name=jmir_v27i1e59435_app1.docx&filename=2ff26f0a7b3db530e6e1a74bd2a50323.docx)  
 *Analyses LLMs' ability to simulate human behavior, discussing key limitations (e.g., bias, lack of incentives) and future alignment strategies.*
+
+### 🤒Virtual Patient
+
+#### (2007) Virtual Patient Simulation at U.S. and Canadian Medical Schools
+[PudMed](https://www.researchgate.net/publication/6372288_Virtual_Patient_Simulation_at_US_and_Canadian_Medical_Schools)
+*Examines the adoption, implementation, and educational impact of **virtual patient simulations** in **medical schools** across the U.S. and Canada.*
+
+#### (2010/12) Virtual patient simulation: what do students make of it? A focus group study
+[BMC Medical Education](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-91)
+*Evaluates the effectiveness of **virtual patient simulations** in **medical education**, finding that they enhance clinical reasoning skills and knowledge retention among students.*
+
+#### (2010) Virtual patient simulation: knowledge gain or knowledge loss?
+[BMC Medical Education](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-91)
+*Explores the use of **virtual patient** simulations in **medical education**, demonstrating their effectiveness in improving clinical decision-making and diagnostic skills among learners.*
+
+#### (2015) Effectiveness of patient simulation in nursing education: meta-analysis.
+[Nurse Education Today](https://www.sciencedirect.com/science/article/abs/pii/S0260691714003074)
+*Identify the best available evidence about the effects of **patient simulation** in **nursing education** through a meta-analysis.*
+
+#### (2010) High-fidelity patient simulation: considerations for effective learning.
+[Nurse Education Today](https://www.researchgate.net/publication/47814051_High-fidelity_patient_simulation_Considerations_for_effective_learning)
+*Examines **high-fidelity patient simulation in medical education****, emphasizing key design and implementation factors that optimize learning outcomes*
+
+#### (2015) Effectiveness of patient simulation in nursing education: meta-analysis.
+[Nurse Education Today](https://www.sciencedirect.com/science/article/abs/pii/S0260691714003074)
+*Identify the best available evidence about the effects of **patient simulation** in **nursing education** through a meta-analysis.*
+
+
+### 📜Development History
 
 </div>
 
@@ -129,6 +162,10 @@ This repository provides a curated collection of research papers on **Large Lang
 
 ### 🩺 General Medicine Education
 
+#### (2010) Virtual patient simulation: what do students make of it? A focus group study.
+[BMC Med Educ](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-91)
+*Evaluates **virtual patient simulations in medical training**, concluding that they significantly improve clinical reasoning skills and knowledge application compared to traditional methods.*
+
 #### (2023/08) The Role of Large Language Models in Medical Education: Applications and Implications  
 [JMIR](https://mededu.jmir.org/2023/1/e50945) | [pdf](https://mededu.jmir.org/2023/1/e50945/PDF)  
 *Shows LLMs can simulate patient encounters for medical education but lack nonverbal communication and may exhibit biases.*
@@ -181,7 +218,23 @@ From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.n
 
 ---
 
-## ⚠️ Challenges <span style="font-size: 0.8em; color: #666;">🚨</span>
+## ☑️ Evaluation Methods & Effects <span style="font-size: 0.8em; color: #666;">🚨</span>
+
+<div style="margin: 20px 0;">
+
+### 🎭 XXX
+
+#### (XXX) XXXX  
+[JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
+*XXX.*
+
+
+
+</div>
+
+---
+
+## ⚠️ Challenges & Limitations <span style="font-size: 0.8em; color: #666;">🚨</span>
 
 <div style="margin: 20px 0;">
 
@@ -190,6 +243,22 @@ From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.n
 #### (2024/07) The Role of Humanization and Robustness of Large Language Models in Conversational Artificial Intelligence for Individuals With Depression: A Critical Analysis  
 [JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
 *Analyzes LLMs' humanization and robustness in depression-focused AI, revealing emotional understanding gaps and proposing enhancement strategies.*
+
+</div>
+
+---
+
+## 📈 Future Trends <span style="font-size: 0.8em; color: #666;">🚨</span>
+
+<div style="margin: 20px 0;">
+
+### 🎭 XXX
+
+#### (XXX) XXXX  
+[JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
+*XXX.*
+
+
 
 </div>
 
