@@ -21,7 +21,6 @@ This repository provides a curated collection of research papers on **Large Lang
 
 - [Fundamental Research](#-fundamental-research)
   - [Virtual Patient](#-virtual-patient)
-  - [Development History](#-development-history)
 - [Methodology](#-methodology)
   - [Agent Systems](#-agent-systems)
   - [NLP Techniques](#-nlp-techniques)
@@ -64,7 +63,7 @@ This repository provides a curated collection of research papers on **Large Lang
 [arXiv](http://arxiv.org/abs/2502.18210) | [pdf](https://arxiv.org/pdf/2502.18210) | [Data](https://jmir.org/api/download?alt_name=jmir_v27i1e59435_app1.docx&filename=2ff26f0a7b3db530e6e1a74bd2a50323.docx)  
 *Analyses LLMs' ability to simulate human behavior, discussing key limitations (e.g., bias, lack of incentives) and future alignment strategies.*
 
-### 🤒 Virtual Patient
+### 🤒 Virtual Patient Development
 
 #### (2007) Virtual Patient Simulation at U.S. and Canadian Medical Schools  
 [PudMed](https://www.researchgate.net/publication/6372288_Virtual_Patient_Simulation_at_US_and_Canadian_Medical_Schools)  
@@ -90,7 +89,9 @@ This repository provides a curated collection of research papers on **Large Lang
 [Nurse Education Today](https://www.sciencedirect.com/science/article/abs/pii/S0260691714003074)  
 *Identify the best available evidence about the effects of **patient simulation** in **nursing education** through a meta-analysis.*
 
-### 📜 Development History
+#### (2020/07) Guidelines for the design of a virtual patient for psychiatric interview training  
+[Springer Link](https://link.springer.com/article/10.1007/s12193-020-00338-8)  
+*Specific guidelines for **designing psychiatric virtual patients** (e.g., symptom plausibility and simulation of resistance behaviors) are provided, and these principles can be directly applied to LLM-driven patient simulation systems, especially in prompt design.*
 
 </div>
 
@@ -236,6 +237,10 @@ This repository provides a curated collection of research papers on **Large Lang
 
 ### 🧠 Psychiatric Medicine
 
+#### (2022/06 ) Embodied Virtual Patients as a Simulation-Based Framework for Training Clinician-Patient Communication Skills: An Overview of Their Use in Psychiatric and Geriatric Care  
+[Frontiers](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2022.827312/full)   
+*The application of virtual patients in psychiatric and geriatric care is explored, especially for training doctor-patient communication skills.*
+
 #### (2023/05) LLM-empowered Chatbots for Psychiatrist and Patient Simulation: Application and Evaluation  
 [arXiv](https://arxiv.org/pdf/2305.13614) | [pdf](https://arxiv.org/pdf/2305.13614)  
 *Demonstrates ChatGPT's feasibility in powering psychiatric patient and doctor chatbots, validated through real clinician-patient evaluations of diagnostic dialogue quality.*
@@ -274,6 +279,10 @@ This repository provides a curated collection of research papers on **Large Lang
 [arXiv](https://arxiv.org/abs/2403.01777) | [project](https://github.com/lizhouf/NPHardEval4V)  
 *Introduces NPHardEval4V, a dynamic **multimodal benchmark designed to evaluate** the pure reasoning abilities of MLLMs by converting NP-hard textual problems into visual-textual inputs, revealing significant gaps between MLLM and LLM reasoning performance.*
 
+#### (2024/07) Assessing the efficacy of ChatGPT as a virtual patient in nursing simulation training: A study on nursing students' experience
+[ScienceDirect](https://www.sciencedirect.com/science/article/abs/pii/S1557308724000337)  
+*Assessed ChatGPT's effectiveness in nursing simulation by collecting data of acceptability, accessibility, engagement ratings, and assessing students' virtual patient interaction skills.*
+
 </div>
 
 ---
@@ -281,6 +290,11 @@ This repository provides a curated collection of research papers on **Large Lang
 ## ⚠️ Challenges & Limitations <span style="font-size: 0.8em; color: #666;">🚨</span>
 
 <div style="margin: 20px 0;">
+
+#### (2024/07) A Survey of Large Language Models in Medicine: Progress, Application, and Challenge
+  
+[arXiv]([https://pmc.ncbi.nlm.nih.gov/articles/PMC11249277/](https://arxiv.org/abs/2311.05112))  
+*The applications of LLM in medicine are reviewed, covering the challenges of patient simulation (such as dynamic interaction and realism).*
 
 ### 🎭 Bias & Ethical Considerations
 
