@@ -35,7 +35,6 @@ This repository provides a curated collection of research papers on **Large Lang
 - [Evaluation Methods & Effects](#-evaluation-methods-effects)
 - [Challenges & Limitations](#-challenges)
   - [Bias & Ethical Considerations](#-bias--ethics)
-- [Future Trends](#-future-trends)
 
 </div>
 
@@ -44,6 +43,10 @@ This repository provides a curated collection of research papers on **Large Lang
 ## 🔍 Fundamental Research <span style="font-size: 0.8em; color: #666;">📚</span>
 
 <div style="margin: 20px 0;">
+
+#### (1996/1)）Simulator Limitations and Their Effects on Decision-Making
+[Sage](https://journals.sagepub.com/doi/10.1177/154193129604001406)
+*Outlines **core principles of high-fidelity patient simulation** (dynamic case design, structured feedback, and behavioral assessment) that remain foundational for modern LLM-based patient simulation systems in medical education.*
 
 #### (2021/05) Lessons Learned from the Usability Evaluation of a Simulated Patient Dialogue System  
 [Springer Link](https://link.springer.com/article/10.1007/s10916-021-01737-4) | [Data](https://pvdial.limsi.fr/data/PG-logs-eval.zip) | [Demo](http://vps-9069f76a.vps.ovh.net)  
@@ -108,6 +111,10 @@ This repository provides a curated collection of research papers on **Large Lang
 [arXiv](http://arxiv.org/abs/2402.09742) | [Project](https://github.com/LibertFan/AI_Hospital)  
 *Introduces AI Hospital, a **multi-agent framework** for evaluating large language models in simulated medical interactions.*
 
+#### (2024/06) Towards a Client-Centered Assessment of LLM Therapists by Client Simulation  
+[arXiv](https://arxiv.org/abs/2406.12266) | [Project](https://github.com/wangjs9/ClientCAST)  
+*Proposes ClientCAST, a novel LLM-based client simulation framework to assess the performance of AI therapists through standardized questionnaires and interaction analysis.*
+
 #### (2024/10) AIPatient: Simulating Patients with EHRs and LLM Powered Agentic Workflow  
 [arXiv](https://arxiv.org/abs/2409.18924) | [Code](https://www.catalyzex.com/paper/aipatient-simulating-patients-with-ehrs-and/code) | [Data](https://paperswithcode.com/dataset/mimic-iii)  
 *Presents a novel **agentic workflow** combining **EHR** knowledge graphs with Reasoning-RAG architecture.*
@@ -122,6 +129,10 @@ This repository provides a curated collection of research papers on **Large Lang
 
 ### 💬 NLP
 
+#### (2022/11) Artificial intelligence in virtual standardized patients: Combining natural language understanding and rule based dialogue management to improve conversational fidelity 
+From [Medical Teacher](https://www.tandfonline.com/doi/full/10.1080/0142159X.2022.2130216) 
+*Developed a novel hybrid dialogue system using ASR, hybrid AI, and automated speech generation, enabling artificially intelligent VSPs to correctly answer student questions at levels comparable with human SPs.*
+
 #### (2024/05) Automated Generation of High-Quality Medical Simulation Scenarios Through Integration of Semi-Structured Data and Large Language Models  
 [arXiv](https://arxiv.org/abs/2404.19713) | [pdf](https://arxiv.org/pdf/2404.19713)  
 *Introduces a semi-structured data and LLM-integrated framework to automate the generation of medical simulation scenarios, significantly reducing development time while maintaining clinical and educational relevance.*
@@ -131,6 +142,10 @@ This repository provides a curated collection of research papers on **Large Lang
 *Presents **RasPatient Pi**, a low-cost, customizable virtual standardized patient simulator based on Large Language Models (LLMs).*
 
 ### 🎨 Generative Models
+
+#### (2024/03) Creating Virtual Patients using Robots and Large Language Models: A Preliminary Study with Medical Students  
+[ACM](https://dl.acm.org/doi/10.1145/3610978.3640592)  
+*Presents **a virtual patient platform combining the social robot Furhat with LLMs (GPT-3.5-turbo)** to enhance clinical reasoning training, demonstrating improved authenticity and learning effects compared to traditional semi-linear VP systems.*
 
 #### (2024/04) Leveraging Large Language Model as Simulated Patients for Clinical Education  
 [arXiv](http://arxiv.org/abs/2404.13066)  
@@ -147,6 +162,10 @@ This repository provides a curated collection of research papers on **Large Lang
 *Introduces MedDiT, a knowledge-controlled diffusion transformer framework designed to dynamically generate medical images for virtual simulated patients.*
 
 ### ✏️ Prompt Engineering
+
+#### (2024/01) A Generative Pretrained Transformer (GPT)–Powered Chatbot as a Simulated Patient to Practice History Taking: Prospective, Mixed Methods Study
+[JMIR](https://mededu.jmir.org/2024/1/e53961) | [pdf](https://jmir.org/api/download?alt_name=mededu_v10i1e53961_app1.pdf&filename=afea0cccea2a67adc54d26ef18fd7da4.pdf)  
+*Employs **a GPT-powered chatbot as a simulated patient**, using meticulously crafted prompts to replicate realistic clinical interactions for medical history-taking practice, demonstrating the **potential of LLMs in standardized patient training.***
 
 #### (2025/01) Application of Large Language Models in Medical Training Evaluation—Using ChatGPT as a Standardized Patient: Multimetric Assessment  
 [JMIR](https://www.jmir.org/2025/1/e59435) | [pdf](https://www.jmir.org/2025/1/e59435/PDF)  
@@ -166,6 +185,10 @@ This repository provides a curated collection of research papers on **Large Lang
 [BMC Med Educ](https://bmcmededuc.biomedcentral.com/articles/10.1186/1472-6920-10-91)
 *Evaluates **virtual patient simulations in medical training**, concluding that they significantly improve clinical reasoning skills and knowledge application compared to traditional methods.*
 
+#### (2019/06) Using virtual standardized patients to accurately assess information gathering skills in medical students
+From [Medical Teacher](https://www.tandfonline.com/doi/full/10.1080/0142159X.2019.1616683)
+*Developed a **virtual standardized patient system** that can understand, respond, categorize, and assess student performance, thus enabling students to practice their **history-taking skills** and receive immediate feedback.*
+
 #### (2023/08) The Role of Large Language Models in Medical Education: Applications and Implications  
 [JMIR](https://mededu.jmir.org/2023/1/e50945) | [pdf](https://mededu.jmir.org/2023/1/e50945/PDF)  
 *Shows LLMs can simulate patient encounters for medical education but lack nonverbal communication and may exhibit biases.*
@@ -174,9 +197,21 @@ This repository provides a curated collection of research papers on **Large Lang
 From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.net/publication/387328695_ANNUAL_REVIEW_OF_CYBERTHERAPY_AND_TELEMEDICINE_2024#page=172)  
 *Explores the use of virtual standardized AI patients powered by LLMs to enhance clinical practice and therapy training.*
 
+#### (2024/04) Virtual Standardized LLM-AI Patients for Clinical Practice  
+From [Future Healthcare Journal](https://www.sciencedirect.com/science/article/pii/S2514664524001553?via%3Dihub) 
+*Demonstrate the viability of using LLM technology, specifically GPT-3.5 and GPT-4, to create realistic virtual patients.*
+
+#### (2024/05) Simulating Diverse Patient Populations Using Patient Vignettes and Large Language Models 
+[ACL Anthology](https://aclanthology.org/2024.cl4health-1.3/) | [pdf](https://aclanthology.org/2024.cl4health-1.3.pdf)
+*Demonstrates how LLMs like GPT-4 can simulate diverse patient populations via role-prompted vignettes, enabling cost-effective testing of digital therapeutics and medical training with clinically valid responses.*
+
 #### (2024/07) Roleplay-doh: Enabling Domain-Experts to Create LLM-simulated Patients via Eliciting and Adhering to Principles  
 [arXiv](http://arxiv.org/abs/2407.00870) | [Project](https://roleplay-doh.github.io/)  
 *Introduces Roleplay-doh, a tool that enables domain experts to collaboratively create realistic AI patient simulations by providing qualitative feedback.*
+
+#### (2024/07) Creating virtual patients using large language models: scalable, global, and low cost  
+[PubMed](https://pubmed.ncbi.nlm.nih.gov/38992981/)
+*Presents a low-cost, AI-driven virtual patient (LLM-VP) system using LLMs like GPT-4 for clinical reasoning training, demonstrating scalable implementation and potential to democratize medical education.*
 
 #### (2024/08) A Language Model-Powered Simulated Patient With Automated Feedback for History Taking: Prospective Study  
 [JMIR](https://mededu.jmir.org/2024/1/e59213)  
@@ -193,6 +228,12 @@ From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.n
 #### (2025/03) MedSimAI: Simulation and Formative Feedback Generation to Enhance Deliberate Practice in Medical Education  
 [arXiv](http://arxiv.org/abs/2503.05793)  
 *Introduces **MedSimAI**, an AI-driven platform designed to enhance medical education by providing realistic simulations and formative feedback.*
+
+### 👩‍⚕️ Nurse Training
+
+#### (2024/06) Evaluation of Large Language Model Generated Dialogues for an AI Based VR Nurse Training Simulator 
+[Springer Link](https://link.springer.com/chapter/10.1007/978-3-031-61041-7_13)  
+*Evaluates the efficacy of LLM-generated dialogues (GPT-3.5, Bard, ClaudeAI) for VR nurse training simulators*
 
 ### 🧠 Psychiatric Medicine
 
@@ -224,9 +265,17 @@ From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.n
 
 ### 🎭 XXX
 
-#### (XXX) XXXX  
-[JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
-*XXX.*
+#### (2024/11) Analyzing evaluation methods for large language models in the medical field: a scoping review  
+[BMC](https://doi.org/10.1186/s12911-024-02709-7) 
+*Reviews studies on **LLM evaluations in the medical field** and analyzes the research methods used in these studies.*
+
+#### (2024/02) NPHardEval: Dynamic Benchmark on Reasoning Ability of Large Language Models via Complexity Classes 
+[arXiv](https://arxiv.org/abs/2312.14890) | [project](https://github.com/casmlab/NPHardEval)
+*Introduces NPHardEval, a dynamic benchmark grounded in computational complexity classes (P, NP-complete, NP-hard) to rigorously **evaluate LLMs' reasoning abilities**, featuring automated question generation and monthly updates to mitigate overfitting.*
+
+#### (2024/03) NPHardEval4V: A Dynamic Reasoning Benchmark of Multimodal Large Language Models  
+[arXiv](https://arxiv.org/abs/2403.01777) | [project](https://github.com/lizhouf/NPHardEval4V)
+*Introduces NPHardEval4V, a dynamic **multimodal benchmark designed to evaluate** the pure reasoning abilities of MLLMs by converting NP-hard textual problems into visual-textual inputs, revealing significant gaps between MLLM and LLM reasoning performance.*
 
 
 
@@ -240,25 +289,13 @@ From [Annual Review of CyberTherapy and Telemedicine](https://www.researchgate.n
 
 ### 🎭 Bias & Ethics
 
+#### (2024/06) Ethical Considerations in the Use of Artificial Intelligence and Machine Learning in Health Care: A Comprehensive Review
+[PubMed](https://pmc.ncbi.nlm.nih.gov/articles/PMC11249277/)
+*Explored the multifaceted ethical considerations in the use of AI and ML in health care, including privacy and data security, algorithmic bias, transparency, clinical validation, and professional responsibility.*
+
 #### (2024/07) The Role of Humanization and Robustness of Large Language Models in Conversational Artificial Intelligence for Individuals With Depression: A Critical Analysis  
 [JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
 *Analyzes LLMs' humanization and robustness in depression-focused AI, revealing emotional understanding gaps and proposing enhancement strategies.*
-
-</div>
-
----
-
-## 📈 Future Trends <span style="font-size: 0.8em; color: #666;">🚨</span>
-
-<div style="margin: 20px 0;">
-
-### 🎭 XXX
-
-#### (XXX) XXXX  
-[JMIR](https://www.jmir.org) | [pdf](https://example.com/pdf)  
-*XXX.*
-
-
 
 </div>
 
